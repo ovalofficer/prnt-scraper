@@ -1,2 +1,2 @@
 # prnt-scraper
-Simple CLI-accessible scraper for prnt.sc, written in Python
+Simple CLI-accessible scraper for http://prnt.sc, written in Python
